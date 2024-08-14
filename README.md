@@ -1,17 +1,15 @@
-## Hi there 
+### Boas vindos ao meu perfil
 
-<!--
-**isabellaMonteiro15/isabellaMonteiro15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Isabella 💜
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ... nu
-- 🌱 I’m currently learning ...fhk
-- 👯 I’m looking to collaborate on ...kkjh
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+  ### Você entrar em contato comigo
+
+  0000111856554xSP@al.educacao.sp.gov.br
   
+  @xr_isabellaa
+
+![](https://media1.tenor.com/m/1SDTHgTkXP4AAAAd/vae.gif)
